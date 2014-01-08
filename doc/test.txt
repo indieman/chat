@@ -1,0 +1,4 @@
+C использованием tornado + mongodb (motor + schematics) написать базовый handler,
+обеспечивающий два базовых действия с моделью (create, get all) и валидацию с помощь sсhematics. 
+
+Вопросы в Skype
